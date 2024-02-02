@@ -1,0 +1,74 @@
+.container{
+  display: flex;
+  justify-content: center;
+}
+.container input {
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+  border: 2px solid white;
+  box-shadow: 0 0 30px 0 white;
+
+}
+
+.button{
+  display: flex;
+
+}
+.container button{
+  width: 130px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px;
+  box-shadow: 0 0 30px 0 white;
+
+
+}
+.div1 button{
+  width:130px ;
+  height: 30px;
+  margin: 10px;
+  box-shadow: 0 0 30px 0 white;
+}
+.div1{
+  width: 500px;
+  height: 320px;
+  background-color: rgb(246, 15, 15);
+  border: 3px solid rgb(29, 13, 242);
+  border-radius: 40px;
+  margin: 30px;
+  gap: 10px;
+}
+.content{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 30px;
+  gap: 30px;
+  border-radius: 50px;
+
+}
+.module{
+  width: 300px;
+  height: 40px;
+}
+.input1{
+  width: 200px;
+  height: 30px;
+  box-shadow: 0 0 30px 0 white;
+
+}
+.input2{
+  width: 200px;
+  height: 30px;
+  box-shadow: 0 0 30px 0 white;
+
+}
+.input3{
+  width: 200px;
+  height: 30px;
+  box-shadow: 0 0 30px 0 white;
+
+}
